@@ -1,0 +1,4 @@
+*.h5 
+savedModels/ 
+__pycache__/ 
+*.hdf5 
